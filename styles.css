@@ -33,6 +33,12 @@ h1 {
     margin: 20px 0;
 }
 
+.cat-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
 .cat-placeholder {
     width: 600px;
     max-width: 100%;
