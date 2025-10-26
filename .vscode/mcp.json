@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"my-mcp-server-27357243": {
+			"url": "https://mws02-50523.wykr.es/mcp/690a1fa3-b059-4581-bd06-cb6875c7eee9",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
